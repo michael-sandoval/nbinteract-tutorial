@@ -1,6 +1,6 @@
 # nbinteract-tutorial
 
-## Using nbinteract
+## Using nbinteract (nbinteract package is currently having issues)
 
 Remember to save widget state in Jupyter Notebook before trying to convert (or don't, it may work)
 
