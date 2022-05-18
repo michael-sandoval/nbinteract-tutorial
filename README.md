@@ -1,4 +1,4 @@
-# nbinteract-tutorial
+# Jobscript Generator Tests
 
 ## Using nbinteract (nbinteract package is currently having issues)
 
